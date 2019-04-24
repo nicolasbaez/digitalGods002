@@ -1,7 +1,7 @@
 # digitalGods002
 Creando estructuras
 
-![digitalGods](https://github.com/nicolasbaez/digitalGods001/blob/master/portada.png)
+![digitalGods](https://github.com/nicolasbaez/digitalGods002/blob/master/portada.png)
 
 1. gameDev.htm
 ```html
